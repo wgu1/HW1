@@ -1,0 +1,27 @@
+body 	{
+	     color: black;
+	     background-color: pink;
+	     font-size: 18pt;
+	     font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;  
+	}
+#resume_body{text-align:center;}	
+	
+div 	
+.box {border:2px ;  padding: 10px; 
+				margin-right:10px; margin-left:20px; float:left;}
+.photo {  background-color:purple;
+		border:2px ; padding: 10px; 
+				margin-right:10px; margin-left:20px; float:left;}
+
+.para    {
+		background-color: burlywood;
+		text-align: left
+		border:2px;  padding: 10px; 
+				margin-right:10px; margin-left:20px; float:right;}
+.head  {text-align: center; background-color: antiquewhite;float:center;}
+		
+p 	{  color: coral; font-size: 15pt; }
+		
+h1 	{  font-style:italic; font-weight:bold; font-size: 23pt}
+h2     {font-size:18pt; font-weight:bond}
+h3     {font-size:16pt; font-weight:bond; font-style:italic}
